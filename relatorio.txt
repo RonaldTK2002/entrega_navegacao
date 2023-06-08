@@ -1,0 +1,2 @@
+A primeira modificação que eu realizei foi no arquivo node.py, alterando a implementacao da funcao f_cost, que antes retornava apenas o valor de g_cost 
+e agora retorna a soma de g_cost com h_cost alem de arrumar os problemas no __init__ da classe.
